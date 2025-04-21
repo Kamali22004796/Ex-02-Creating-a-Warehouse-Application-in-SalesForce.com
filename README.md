@@ -1,5 +1,6 @@
-# Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
-
+# Ex-06-Creating-a-Warehouse-Application-in-SalesForce.com
+# Name: Kamali E
+# Reg no: 212222110015
 ## AIM:
 To create a warehouse application in salesforce.com
 
